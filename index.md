@@ -3,7 +3,7 @@ layout: page
 title: Home
 ---
 
-## Hi, I’m Alen
+## Hello, I’m Alen
 
 I’ve done hands-on cybersecurity and IT work supporting a small manufacturing business, focusing on **NIST 800-171**, **CMMC Level 1**, documentation, and secure system practices.
 
