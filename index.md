@@ -1,20 +1,21 @@
-# Alen | Cybersecurity & IT Portfolio
+---
+layout: page
+title: Home
+---
 
-Hands-on cybersecurity, compliance, and IT work supporting a small manufacturing business.
+## Hi, I’m Alen
 
-## Highlights
-- NIST 800-171 & CMMC Level 1 self-assessment
-- Policy development & evidence indexing
-- Secure system configuration
-- Real-world small business constraints
+I’ve done hands-on cybersecurity and IT work supporting a small manufacturing business, focusing on **NIST 800-171**, **CMMC Level 1**, documentation, and secure system practices.
 
-## Projects
-- [CMMC Self-Assessment & Evidence Index](projects/cmmc.md)
-- [Security Policies & Documentation](projects/policies.md)
-- [System Hardening & Controls](projects/system-hardening.md)
+### What I'm Working On
+- Cybersecurity compliance & assessments
+- Policy creation and documentation
+- Evidence indexing & audit preparation
+- Practical security for small businesses
 
-## Tools
-- Microsoft Entra ID
-- Microsoft Purview
-- Windows Security
-- Documentation & auditing workflows
+### What I've Done in the Past
+- Interned as a security analyst at Le Moyne College in Syracuse, NY
+- Created, configured, hardened, and maintained virtual networks on GNS3 containing Windows servers, workstations, and networking equipment
+- Built and configured a home server on an Ubuntu Linux machine running docker containers to act as an SIEM server and performed pentesting exercises 
+
+➡️ View my work on the **Projects** page.
